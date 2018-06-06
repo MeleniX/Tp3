@@ -45,4 +45,5 @@ class Settings{
 		return $this->id;
 	}
 
+	
 }

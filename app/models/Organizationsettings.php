@@ -63,7 +63,7 @@ class Organizationsettings{
 	}
 
 	 public function getSettings(){
-		return $this->settings;
+		return $this->settings; 
 	}
 
 	 public function setSettings($settings){
@@ -74,4 +74,5 @@ class Organizationsettings{
 		return $this->idSettings;
 	}
 
+	
 }

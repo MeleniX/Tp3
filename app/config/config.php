@@ -1,6 +1,6 @@
 <?php
 return array(
-	"siteUrl"=>"http://127.0.0.1/tp3/",
+	"siteUrl"=>"http://127.0.0.1/tp3-md/",
 	"database"=>array(
 			"type"=>"mysql",
 			"dbName"=>"messagerie",
